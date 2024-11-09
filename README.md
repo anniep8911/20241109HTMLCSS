@@ -1,2 +1,2 @@
 # 20241109HTMLCSS
-HTML/CSS lecs in Nov
+HTML/CSS lec in Nov
